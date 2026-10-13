@@ -146,7 +146,8 @@ class Program
         Console.WriteLine("Converted Number: " + parsedNumber);
 
         #endregion
-    
+
+        Console.Read();
     }
     
 }
