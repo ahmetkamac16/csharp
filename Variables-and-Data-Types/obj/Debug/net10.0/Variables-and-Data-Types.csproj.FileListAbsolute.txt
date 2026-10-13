@@ -1,0 +1,14 @@
+C:\repos\csharp\Variables-and-Data-Types\bin\Debug\net10.0\Variables-and-Data-Types.exe
+C:\repos\csharp\Variables-and-Data-Types\bin\Debug\net10.0\Variables-and-Data-Types.deps.json
+C:\repos\csharp\Variables-and-Data-Types\bin\Debug\net10.0\Variables-and-Data-Types.runtimeconfig.json
+C:\repos\csharp\Variables-and-Data-Types\bin\Debug\net10.0\Variables-and-Data-Types.dll
+C:\repos\csharp\Variables-and-Data-Types\bin\Debug\net10.0\Variables-and-Data-Types.pdb
+C:\repos\csharp\Variables-and-Data-Types\obj\Debug\net10.0\Variables-and-Data-Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\csharp\Variables-and-Data-Types\obj\Debug\net10.0\Variables-and-Data-Types.AssemblyInfoInputs.cache
+C:\repos\csharp\Variables-and-Data-Types\obj\Debug\net10.0\Variables-and-Data-Types.AssemblyInfo.cs
+C:\repos\csharp\Variables-and-Data-Types\obj\Debug\net10.0\Variables-and-Data-Types.csproj.CoreCompileInputs.cache
+C:\repos\csharp\Variables-and-Data-Types\obj\Debug\net10.0\Variables-and-Data-Types.dll
+C:\repos\csharp\Variables-and-Data-Types\obj\Debug\net10.0\refint\Variables-and-Data-Types.dll
+C:\repos\csharp\Variables-and-Data-Types\obj\Debug\net10.0\Variables-and-Data-Types.pdb
+C:\repos\csharp\Variables-and-Data-Types\obj\Debug\net10.0\Variables-and-Data-Types.genruntimeconfig.cache
+C:\repos\csharp\Variables-and-Data-Types\obj\Debug\net10.0\ref\Variables-and-Data-Types.dll
