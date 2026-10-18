@@ -10,4 +10,8 @@
 /Loops/obj/
 /Methods/obj/
 /Exception-Handling/obj/
-/Classes-and-Objects/obj/Debug/net10.0/Classes-and-Objects.assets.cache
+/Classes-and-Objects/obj/
+/Object-Oriented-Programming/obj
+
+/ADO-NET-and-CRUD/DatabaseConnection/obj/Debug/net10.0/DatabaseConnection.assets.cache
+/ADO-NET-and-CRUD/DatabaseConnection/obj/Debug/net10.0/DatabaseConnection.csproj.AssemblyReference.cache
