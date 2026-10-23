@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Layered-Architecture/EFProject/EFExample.csproj" Id="c8c3ab7b-553d-4024-9180-c0c257b0515a" />
+  <Project Path="Layered-Architecture.BusinessLayer/Layered-Architecture.BusinessLayer.csproj" Id="71fb42a0-a3f0-495a-aab3-824b6330f294" />
+  <Project Path="Layered-Architecture.DataAccessLayer/Layered-Architecture.DataAccessLayer.csproj" Id="1f26f56c-c5a8-4bde-8063-4487e438929f" />
+  <Project Path="Layered-Architecture.EntityLayer/Layered-Architecture.EntityLayer.csproj" Id="1e2eb952-31cc-43d8-a4e1-8ddc4fcd15b3" />
+  <Project Path="Layered-Architecture.PresentationLayer/Layered-Architecture.PresentationLayer.csproj" Id="2dcfd31c-edf9-4395-8daa-c3484afdf3a7" />
+</Solution>
